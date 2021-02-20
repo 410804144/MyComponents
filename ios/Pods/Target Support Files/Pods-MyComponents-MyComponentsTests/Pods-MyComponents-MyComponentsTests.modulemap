@@ -1,0 +1,6 @@
+module Pods_MyComponents_MyComponentsTests {
+  umbrella header "Pods-MyComponents-MyComponentsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
